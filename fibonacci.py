@@ -1,7 +1,5 @@
 def generate_fibonacci(n):
-    """
-    Generate a Fibonacci sequence with n terms.
-    """
+    
     sequence = []
     a, b = 0, 1
     for _ in range(n):
