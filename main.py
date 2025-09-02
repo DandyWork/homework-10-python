@@ -2,7 +2,7 @@ from fibonacci import generate_fibonacci
 
 def main():
     # Ask user for the number of terms
-    n = int(input("Enter the number of Fibonacci terms: "))
+    n = int(input("Banyak angka fibonacci: "))
 
     # Generate the Fibonacci sequence
     sequence = generate_fibonacci(n)
